@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <nav class="w-full h-[100px] flex px-16 items-center justify-between text-[16px] text-[#5D5D5D] font-Inter">
+    <nav class="w-full h-[100px] flex px-16 items-center justify-between text-[16px] text-[#5D5D5D] font-Inter hover:cursor-pointer">
         <div class="flex justify-between w-[70%]">
             <img src="./assets/Images/logo.png" alt="" class="w-[15%] h-[25px]">
             <router-link to="" class="text-[#00A283] font[700]">Home</router-link>  
